@@ -22,4 +22,6 @@ Week-1:
   * Jumat, 23 Februari, saya mengulang ulang kembali materi tentang Git dan Github untuk lebih memahaminya
   * Sabtu, 24 Februari, masih mengulang materi Git
   * Minggu, 25 Februari, masih mengulang materi Git
-  * Senin, Melanjutkan kembali materi kelas "Belajar Dasar Pemrograman WEB".....
+
+Week-2:  
+  * Senin 26 Februari, Melanjutkan kembali materi kelas "Belajar Dasar Pemrograman WEB".....
