@@ -1,0 +1,21 @@
+Week-0:
+- Memulai kelas pertama yaitunya "Pengenalan ke Logika Pemrograman (Programming Logic 101)
+  * Senin 12 Februari, Memulai Kelas Pertama dan menyelesaikan bagian materi Pendahuluan
+  * Selasa 13 Februari, masih melanjutkan kelas pengenalan logika pemrograman, hingga bagian Gerbang Logika
+  * Rabu 14 February, melanjutkan kelas bagian Pengenalan Dasar Computational Thinking", hingga menyelesaikan Ujian Akhir pada bagian Penutup
+ 
+- Memulai kelas kedua, "Memulai Dasar Pemrograman untuk menjadi Pengambang Software"
+  * Kamis 15 Februari, memulai kelas ke-2, menyelesaikan bagian pertama tentang Memahami Kebutuhan Aplikasi
+  * Jumat 16 Februari, melanjutkan progress sebelumnya hingga bagian Perencanaan Modifikasi Aplikasi
+  * Sabtu & Minggu LIBUR
+
+Week-1:
+  * Senin 19 Februari, melanjutkan materi kelas hinga bagian Modifikasi Aplikasi Perangkat Lunak
+  * Selasa 20 Februari, menyelesaikan kelas hingga akhir materi bagian Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
+  * Rabu 21 Februari, Ujian Akhir Kelas
+
+- Kelas ketiga, "Belajar Dasar Git dengan GitHub"
+   * Rabu 21 Februari, dalam sehari ini menyelesaikan kelas dari awal materi hingga Ujian Akhir.
+
+- Kelas keempat, "Belajar Dasar Pemrograman WEB"
+  * Kamis, 22 Februari, membahas bagian pendahuluan yang terdapat pada kelas ini hinga bagian pengantar HTML
