@@ -19,3 +19,7 @@ Week-1:
 
 - Kelas keempat, "Belajar Dasar Pemrograman WEB"
   * Kamis, 22 Februari, membahas bagian pendahuluan yang terdapat pada kelas ini hinga bagian pengantar HTML
+  * Jumat, 23 Februari, saya mengulang ulang kembali materi tentang Git dan Github untuk lebih memahaminya
+  * Sabtu, 24 Februari, masih mengulang materi Git
+  * Minggu, 25 Februari, masih mengulang materi Git
+  * Senin, Melanjutkan kembali materi kelas "Belajar Dasar Pemrograman WEB".....
