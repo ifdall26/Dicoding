@@ -55,6 +55,7 @@ header ul li a {
 }
 
 .main {
+  border-radius: 15px;
   padding: 15px;
   box-sizing: border-box;
   /* border: 1px solid black; */
@@ -69,6 +70,7 @@ header ul li a {
 }
 
 .aside {
+  border-radius: 15px;
   padding: 15px;
   box-sizing: border-box;
   /* border: 1px solid black; */
