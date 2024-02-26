@@ -54,6 +54,12 @@ header ul li a {
   margin-bottom: 20px;
 }
 
+img {
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
 .main {
   border-radius: 15px;
   padding: 15px;
