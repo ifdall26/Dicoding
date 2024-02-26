@@ -1,5 +1,9 @@
 /* memberikan font color pada setiap heading dan  memberikan style pada footer */
 
+body {
+  font-family: sans-serif;
+}
+
 h1,
 h2,
 h3 {
