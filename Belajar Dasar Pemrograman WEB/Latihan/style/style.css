@@ -1,0 +1,17 @@
+/* memberikan font color pada setiap heading dan  memberikan style pada footer */
+
+h1,
+h2,
+h3 {
+  color: aqua;
+}
+
+footer {
+  width: 100%;
+  background-color: aqua;
+  padding: 15px;
+  color: white;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
