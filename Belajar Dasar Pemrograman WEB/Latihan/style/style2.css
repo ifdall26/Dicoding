@@ -57,7 +57,6 @@ nav a:hover {
   border-radius: 5px;
 
   padding: 20px;
-  margin-top: 20px;
 }
 
 .jumbotron {
@@ -89,19 +88,19 @@ nav {
 main {
   padding: 20px;
 
-  overflow: auto;
+  display: flex;
+  gap: 1.5rem;
 }
 
 #content {
-  float: left;
-  width: 75%;
+  flex: 5;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 1rem 2rem;
 }
 
 aside {
-  float: right;
-  width: 25%;
-
-  padding-left: 20px;
+  flex: 1;
 }
 
 header {
@@ -113,5 +112,24 @@ header {
   aside {
     width: 100%;
     padding: 0;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  main {
+    flex-flow: column nowrap;
+  }
+
+  main aside {
+    align-self: center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  nav ul {
+    justify-content: center;
+  }
+  main aside {
+    align-self: stretch;
   }
 }
