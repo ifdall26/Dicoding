@@ -24,4 +24,5 @@ Week-1:
   * Minggu, 25 Februari, masih mengulang materi Git
 
 Week-2:  
-  * Senin 26 Februari, Melanjutkan kembali materi kelas "Belajar Dasar Pemrograman WEB".....
+  * Senin 26 Februari, Melanjutkan kembali materi kelas "Belajar Dasar Pemrograman WEB", hingga menyelesaikan bagian pendalaman css
+  * Selasa 27 Februari, 
