@@ -11,3 +11,17 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+header.navbar-container {
+  width: 100%;
+  max-width: 1200px;
+  padding-block: 1rem;
+  margin-inline: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 9999;
+}
+header.navbar-container .logo img {
+  width: 150px;
+}
