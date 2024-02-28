@@ -3,14 +3,479 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- icon -->
+    <link rel="shortcut icon" href="img/pp.png" type="image/x-icon" />
+    <!-- style -->
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
     <title>My Portfolio</title>
   </head>
   <body>
-    <header></header>
-    <div class="main">
-      <div id="content"></div>
-      <div class="aside"></div>
-    </div>
-    <footer></footer>
+    <!-- header -->
+    <header id="home">
+      <!-- navbar -->
+      <nav>
+        <ul>
+          <li><a class="page-scroll" href="#profil">Profil Singkat</a></li>
+          <li><a class="page-scroll" href="#pendidikan">Pendidikan</a></li>
+          <li>
+            <a class="page-scroll" href="#home"
+              ><img src="img/pp.jpg" alt="logo" width="35px"
+            /></a>
+          </li>
+          <li><a class="page-scroll" href="#portf">Portofolio</a></li>
+          <li><a class="page-scroll" href="#sertf">Sertifikasi</a></li>
+        </ul>
+      </nav>
+      <!-- jumbotron -->
+      <div class="jumbotron">
+        <img src="img/pp.jpg" alt="logo" width="200px" />
+        <h1 class="textcenter">My Portfolio</h1>
+        <h5 class="textcenter">
+          Teknik Informatika | Universitas Negeri Padang
+        </h5>
+      </div>
+    </header>
+
+    <!-- main -->
+    <main>
+      <!-- main content -->
+      <div id="content">
+        <article id="profil">
+          <h2>Profil Singkat</h2>
+          <p>
+            Saya, Ifdal Lisyukri, adalah mahasiswa yang sedang menempuh
+            pendidikan di program studi Teknik Informatika di Fakultas Teknik
+            Universitas Negeri Padang. Saat ini, saya telah mencapai semester 6
+            dalam perjalanan pendidikan saya. Sejak awal, saya telah memiliki
+            minat yang besar dalam bidang teknologi dan informatika. Keinginan
+            saya untuk terlibat dalam pengembangan perangkat lunak dan solusi
+            teknologi telah mendorong saya untuk mengejar pendidikan dalam
+            bidang ini.
+          </p>
+        </article>
+        <article id="pendidikan">
+          <h2>Pendidikan</h2>
+          <p>Berikut adalah riwayat pendidikan saya :</p>
+          <table>
+            <tr>
+              <th>SD</th>
+              <td>
+                SDN 017 Pandau Jaya, Kec. Siak Hulu, Kab. Kampar,
+                Riau(2009-2015)
+              </td>
+            </tr>
+            <tr>
+              <th rowspan="2">SMP/MTS</th>
+              <td>MTsN 03 Pekanbaru, Riau(2015)</td>
+            </tr>
+            <tr>
+              <td>MTsN 11 Pesisir Selatan Sumatera Barat(2016-2018)</td>
+            </tr>
+            <tr>
+              <th>SMA/SMK</th>
+              <td>
+                SMK Teknologi Lengayang, Pesisir Selatan Sumatera
+                Barat(2018-2021)
+              </td>
+            </tr>
+            <tr>
+              <th>Pendidikan Tinggi</th>
+              <td>Universitas Negeri Padang(2021-sekarang)</td>
+            </tr>
+          </table>
+
+          <section>
+            <h3>
+              Sekolah Dasar Negeri 017 Pandau Jaya, Kec. Siak Hulu, Kab. Kampar,
+              Riau(2009-2015)
+            </h3>
+            <p>
+              Pendidikan dasar saya dimulai di SDN 017 Pandau Jaya, yang
+              merupakan bagian dari daerah Siak Hulu, Kabupaten Kampar, Riau.
+            </p>
+            <img src="img/sd.png" alt="sdn017pandauJaya" />
+          </section>
+          <section>
+            <h3>Madrasah Tsanawiyah Negeri 03 Pekanbaru, Riau(2015)</h3>
+            <p>
+              Setelah menyelesaikan pendidikan dasar, saya melanjutkan ke
+              Madrasah Tsanawiyah (MTs) di MTsN 03 Pekanbaru, Riau, selama satu
+              semester.
+            </p>
+            <img src="img/mts3.jpeg" alt="mtsn03pku" />
+          </section>
+          <section>
+            <h3>
+              Madrasah Tsanawiyah Negeri 11 Pesisir Selatan Sumatera
+              Barat(2016-2018)
+            </h3>
+            <p>
+              Kemudian saya pindah dan melanjutkan pendidikan menengah saya di
+              MTsN 11 Pesisir Selatan, Sumatera Barat, di mana saya
+              menyelesaikan pendidikan hingga tamat.
+            </p>
+            <img src="img/mts11.png" alt="mtsn11pessel" />
+          </section>
+          <section>
+            <h3>
+              Sekolah Menengah Kejuruan Teknologi Lengayang, Pesisir Selatan
+              Sumatera Barat(2018-2021)
+            </h3>
+            <p>
+              Untuk pendidikan menengah tingkat atas, saya mengambil jurusan
+              Teknik komputer & Jaringan di SMK Teknologi Lengayang, yang
+              berlokasi di Pesisir Selatan, Sumatera Barat.
+            </p>
+            <img src="img/smk.jpg" alt="smkteknolengayang" />
+          </section>
+          <section>
+            <h3>Universitas Negeri Padang(2021-sekarang)</h3>
+            <p>
+              Saat ini, saya sedang menempuh pendidikan tinggi di Universitas
+              Negeri Padang, di mana saya mengambil jurusan Teknik Informatika.
+            </p>
+            <img src="img/unp.jpg" alt="" />
+          </section>
+        </article>
+        <article id="portf" style="display: flex; flex-direction: column">
+          <h2>Portofolio</h2>
+          <p>Berikut adalah daftar proyek yang pernah saya buat :</p>
+          <section>
+            <h3>Website Kampus Cabang unp</h3>
+            <p>
+              Pengembangan website informatif untuk kampus cabang Universitas
+              Negeri Padang (UNP) dengan informasi mengenai program studi,
+              profil kampus, dan galeri. Ini merupakan Project Website pertama
+              saya dan masih berantakan.
+            </p>
+            <figure>
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/wp1.png"
+                alt="webunppessel"
+              />
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/wp1b.png"
+                alt="webunppessel"
+              />
+              <button class="gitlink">
+                <a
+                  href="https://github.com/ifdall26/server_lokal_xampp/tree/8c4abed8c4c7d334f5620ce8c0527c653362a04c/web_unp_pessel"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 16 16"
+                    id="github"
+                    width="25px"
+                    height="25px"
+                  >
+                    <path
+                      d="M7.999 0C3.582 0 0 3.596 0 8.032a8.031 8.031 0 0 0 5.472 7.621c.4.074.546-.174.546-.387 0-.191-.007-.696-.011-1.366-2.225.485-2.695-1.077-2.695-1.077-.363-.928-.888-1.175-.888-1.175-.727-.498.054-.488.054-.488.803.057 1.225.828 1.225.828.714 1.227 1.873.873 2.329.667.072-.519.279-.873.508-1.074-1.776-.203-3.644-.892-3.644-3.969 0-.877.312-1.594.824-2.156-.083-.203-.357-1.02.078-2.125 0 0 .672-.216 2.2.823a7.633 7.633 0 0 1 2.003-.27 7.65 7.65 0 0 1 2.003.271c1.527-1.039 2.198-.823 2.198-.823.436 1.106.162 1.922.08 2.125.513.562.822 1.279.822 2.156 0 3.085-1.87 3.764-3.652 3.963.287.248.543.738.543 1.487 0 1.074-.01 1.94-.01 2.203 0 .215.144.465.55.386A8.032 8.032 0 0 0 16 8.032C16 3.596 12.418 0 7.999 0z"
+                    ></path>
+                  </svg>
+                  Lihat Selengkapnya
+                </a>
+              </button>
+            </figure>
+          </section>
+          <section>
+            <h3>Website Biodata Kelas</h3>
+            <p>
+              Pembuatan website untuk memperkenalkan anggota kelas dengan
+              informasi biodata dan foto anggota kelas Informatika '21 pada
+              Kampus Cabang Universitas Negeri Padang'
+            </p>
+            <figure>
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/wp2a.png"
+                alt="webbiokelas"
+              />
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/wp2b.png"
+                alt="webbiokelas"
+              />
+              <button class="gitlink">
+                <a
+                  href="https://github.com/ifdall26/server_lokal_xampp/tree/8c4abed8c4c7d334f5620ce8c0527c653362a04c/TA"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 16 16"
+                    id="github"
+                    width="25px"
+                    height="25px"
+                  >
+                    <path
+                      d="M7.999 0C3.582 0 0 3.596 0 8.032a8.031 8.031 0 0 0 5.472 7.621c.4.074.546-.174.546-.387 0-.191-.007-.696-.011-1.366-2.225.485-2.695-1.077-2.695-1.077-.363-.928-.888-1.175-.888-1.175-.727-.498.054-.488.054-.488.803.057 1.225.828 1.225.828.714 1.227 1.873.873 2.329.667.072-.519.279-.873.508-1.074-1.776-.203-3.644-.892-3.644-3.969 0-.877.312-1.594.824-2.156-.083-.203-.357-1.02.078-2.125 0 0 .672-.216 2.2.823a7.633 7.633 0 0 1 2.003-.27 7.65 7.65 0 0 1 2.003.271c1.527-1.039 2.198-.823 2.198-.823.436 1.106.162 1.922.08 2.125.513.562.822 1.279.822 2.156 0 3.085-1.87 3.764-3.652 3.963.287.248.543.738.543 1.487 0 1.074-.01 1.94-.01 2.203 0 .215.144.465.55.386A8.032 8.032 0 0 0 16 8.032C16 3.596 12.418 0 7.999 0z"
+                    ></path>
+                  </svg>
+                  Lihat Selengkapnya
+                </a>
+              </button>
+            </figure>
+          </section>
+
+          <section>
+            <h3>Latihan CSS Positioning & CSS3</h3>
+            <p>
+              Latihan untuk memperdalam pemahaman tentang konsep positioning
+              dalam CSS untuk mengatur tata letak elemen pada halaman web, dan
+              mempelajari berbagai fitur CSS3 seperti transisi, transformasi,
+              dan animasi untuk meningkatkan tampilan dan interaktivitas elemen
+              pada halaman web.
+            </p>
+            <figure>
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/mp1.png"
+                alt="webbiokelas"
+              />
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/mp2.png"
+                alt="webbiokelas"
+              />
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/mp3.png"
+                alt="webbiokelas"
+              />
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/mp4.png"
+                alt="webbiokelas"
+              />
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/mp5.png"
+                alt="webbiokelas"
+              />
+              <img
+                class="row"
+                style="width: 45%"
+                src="img/mp6.png"
+                alt="webbiokelas"
+              />
+              <button class="gitlink">
+                <a href="https://github.com/ifdall26/My_Project"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 16 16"
+                    id="github"
+                    width="25px"
+                    height="25px"
+                  >
+                    <path
+                      d="M7.999 0C3.582 0 0 3.596 0 8.032a8.031 8.031 0 0 0 5.472 7.621c.4.074.546-.174.546-.387 0-.191-.007-.696-.011-1.366-2.225.485-2.695-1.077-2.695-1.077-.363-.928-.888-1.175-.888-1.175-.727-.498.054-.488.054-.488.803.057 1.225.828 1.225.828.714 1.227 1.873.873 2.329.667.072-.519.279-.873.508-1.074-1.776-.203-3.644-.892-3.644-3.969 0-.877.312-1.594.824-2.156-.083-.203-.357-1.02.078-2.125 0 0 .672-.216 2.2.823a7.633 7.633 0 0 1 2.003-.27 7.65 7.65 0 0 1 2.003.271c1.527-1.039 2.198-.823 2.198-.823.436 1.106.162 1.922.08 2.125.513.562.822 1.279.822 2.156 0 3.085-1.87 3.764-3.652 3.963.287.248.543.738.543 1.487 0 1.074-.01 1.94-.01 2.203 0 .215.144.465.55.386A8.032 8.032 0 0 0 16 8.032C16 3.596 12.418 0 7.999 0z"
+                    ></path>
+                  </svg>
+                  Lihat Selengkapnya
+                </a>
+              </button>
+            </figure>
+          </section>
+        </article>
+        <article id="sertf" class="sertf">
+          <h2>Sertifikasi</h2>
+          <p>Hanya satu sertifikasi yang saya dapat</p>
+          <figure>
+            <table class="row">
+              <tr>
+                <th>Lembaga</th>
+                <td>:</td>
+                <td>MikroTIK</td>
+              </tr>
+              <tr>
+                <th>Nomor</th>
+                <td>:</td>
+                <td>2402NA7748</td>
+              </tr>
+              <tr>
+                <th>Tipe</th>
+                <td>:</td>
+                <td>MTCNA</td>
+              </tr>
+              <tr>
+                <th>Tanggal</th>
+                <td>:</td>
+                <td>17-02-2024</td>
+              </tr>
+            </table>
+            <img
+              style="min-height: max-content; width: max-content"
+              src="img/sertf.png"
+              alt="MTCNA"
+            />
+          </figure>
+        </article>
+      </div>
+      <!-- aside content -->
+      <aside>
+        <article>
+          <h2 class="textcenter">Bio</h2>
+          <figure>
+            <img class="circle" src="img/profil.jpg" alt="" width="50%" />
+          </figure>
+          <table>
+            <tr>
+              <th>Nama</th>
+              <td>Ifdal Lisyukri</td>
+            </tr>
+            <tr>
+              <th>Email</th>
+              <td>lisyukri.ifdal@gmail.com</td>
+            </tr>
+            <tr>
+              <th>No.Hp</th>
+              <td>+62 822 1038 9468</td>
+            </tr>
+            <tr>
+              <th>Alamat</th>
+              <td>Pesisir Selatan Sumatera Barat</td>
+            </tr>
+            <tr>
+              <th>Hobi</th>
+              <td>Game, Film, Mancing</td>
+            </tr>
+          </table>
+          <hr />
+          <table>
+            <tr>
+              <th>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-github"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8"
+                  />
+                </svg>
+                GitHub
+              </th>
+              <td><a href="https://github.com/ifdall26">ifdall26</a></td>
+            </tr>
+            <tr>
+              <th>
+                <svg
+                  style="color: magenta"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-instagram"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"
+                  />
+                </svg>
+                Instagram
+              </th>
+              <td>
+                <a href="https://instagram.com/ifd261?igshid=OGQ5ZDc2ODk2ZA=="
+                  >@ifd261</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <svg
+                  style="color: salmon"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-envelope"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1zm13 2.383-4.708 2.825L15 11.105zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741M1 11.105l4.708-2.897L1 5.383z"
+                  />
+                </svg>
+                Email
+              </th>
+              <td>
+                <a href="mailto:lisyukri.ifdal@gmail.com"
+                  >lisyukri.ifdal@gmail.com</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <svg
+                  style="color: lightgreen"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-whatsapp"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"
+                  />
+                </svg>
+                Whatsapp
+              </th>
+              <td>
+                <a href="https://wa.me/6282210389468">+62 822 1038 9468</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <svg
+                  style="color: red"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-youtube"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408z"
+                  />
+                </svg>
+                Youtube
+              </th>
+              <td>
+                <a href="https://youtube.com/@il7832?si=x4wFJ3JWLaaY4EY_">IL</a>
+              </td>
+            </tr>
+          </table>
+        </article>
+      </aside>
+    </main>
+
+    <!-- footer -->
+    <footer>
+      <p>&copy; Copyright 2024, <a href="#">Ifdal Lisyukri</a></p>
+    </footer>
+
+    <!-- script -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script/script.js"></script>
   </body>
 </html>
