@@ -26,4 +26,5 @@ Week-1:
 Week-2:  
   * Senin 26 Februari, Melanjutkan kembali materi kelas "Belajar Dasar Pemrograman WEB", hingga menyelesaikan bagian pendalaman css
   * Selasa 27 Februari, Menyelesaikan materi kelas hingga akhir bagian "Layout Responsif dengan Flex-Box"
-  * Rabu 28 Februari, 
+  * Rabu 28 Februari, Membuat Website Portofolio untuk Tugas Akhir kelas "Belajar dasar Pemrograman WEB"
+  
