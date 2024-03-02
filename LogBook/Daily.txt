@@ -27,4 +27,8 @@ Week-2:
   * Senin 26 Februari, Melanjutkan kembali materi kelas "Belajar Dasar Pemrograman WEB", hingga menyelesaikan bagian pendalaman css
   * Selasa 27 Februari, Menyelesaikan materi kelas hingga akhir bagian "Layout Responsif dengan Flex-Box"
   * Rabu 28 Februari, Membuat Website Portofolio untuk Tugas Akhir kelas "Belajar dasar Pemrograman WEB"
+  * Kamis 29 Februari, Menyelesaikan Project Tugas Akhir Membuat Website
+  * Jumat 1 Maret, Mengikuti ILT SS 1 "How to Boost Yout=r Output" dan mengerjakan quis
+  * Sabtu 2 Maret, Memulai kelas kelima "Belajar Dasar Pemrograman javascript, dan mengikuti SANTALK #1"
+  * Minggu 3 Maret....
   
