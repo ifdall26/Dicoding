@@ -30,5 +30,8 @@ Week-2:
   * Kamis 29 Februari, Menyelesaikan Project Tugas Akhir Membuat Website
   * Jumat 1 Maret, Mengikuti ILT SS 1 "How to Boost Yout=r Output" dan mengerjakan quis
   * Sabtu 2 Maret, Memulai kelas kelima "Belajar Dasar Pemrograman javascript, dan mengikuti SANTALK #1"
-  * Minggu 3 Maret....
+  * Minggu 3 Maret, menyelesaikan 8 materi pada bagian Struktur Data
+
+Week-3:
+  * Senin 4 Maret, 
   
