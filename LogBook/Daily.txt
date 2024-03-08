@@ -33,5 +33,11 @@ Week-2:
   * Minggu 3 Maret, menyelesaikan 8 materi pada bagian Struktur Data
 
 Week-3:
-  * Senin 4 Maret, 
+  * Senin 4 Maret, Menyelesaikan hingga 33% kelas pada bagian Struktur Data.
+  * Selasa 5 Maret, Menyelesaikan hingga bagian Function.
+  * Rabu 6 Maret, Menyelesaikan kelas hingga modul Penanganan Error.
+  * Kamis 7 Maret, Menyelesaikan kelas hingga modul concurrency.
+  * Jumat 8 Mater, Menyelesaikan kelas Belajar Dasar Pemrograman Javascript.
+
+
   
