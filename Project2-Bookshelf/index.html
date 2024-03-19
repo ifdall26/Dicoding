@@ -1,0 +1,67 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RakBukuku</title>
+    <!-- mystyle -->
+    <link rel="stylesheet" href="style/style.css" />
+  </head>
+  <body>
+    <!-- header -->
+    <header>
+      <h1>RakBukuKu</h1>
+      <section class="pencarian">
+        <form style="height: 40px" id="searchBook">
+          <label for="searchBookTitle"></label>
+          <input class="bradius" id="searchBookTitle" type="text" />
+          <button id="searchSubmit" type="submit">Cari</button>
+        </form>
+      </section>
+    </header>
+    <!-- endofheader -->
+
+    <!-- main -->
+    <main>
+      <div class="container">
+        <section class="rak">
+          <div class="rak1 bradius">
+            <h2>Buku Belum Selesai Dibaca</h2>
+          </div>
+          <div class="rak2 bradius">
+            <h2>Buku Selesai Dibaca</h2>
+          </div>
+        </section>
+      </div>
+      <aside class="bradius">
+        <section class="input">
+          <h2>Masukkan Buku Baru</h2>
+          <form id="inputBook">
+            <div class="input">
+              <label for="judulBuku">Judul</label>
+              <input id="judulBuku" type="text" required />
+            </div>
+            <div class="input">
+              <label for="penulisBuku">Penulis</label>
+              <input id="penulisBuku" type="text" required />
+            </div>
+            <div class="input">
+              <label for="tahunBuku">Tahun</label>
+              <input id="tahunBuku" type="number" required />
+            </div>
+            <div class="input_inline">
+              <label for="cekSelesaiBaca">Selesai dibaca</label>
+              <input id="cekSelesaiBaca" type="checkbox" />
+            </div>
+            <button id="submitbuku" type="submit">
+              Masukkan Buku ke rak <span>Belum selesai dibaca</span>
+            </button>
+          </form>
+        </section>
+      </aside>
+    </main>
+    <!-- endofmain -->
+
+    <!-- script -->
+    <script src="script/script.js"></script>
+  </body>
+</html>

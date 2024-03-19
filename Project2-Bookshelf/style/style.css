@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-image: url(../img/bgHead.jpg);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border: 3px solid black;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.pencarian {
+  display: flex;
+  align-items: center;
+}
+
+label {
+  margin-right: 5px;
+}
+
+#searchBook {
+  display: flex;
+  align-items: center;
+}
+
+#searchSubmit {
+  margin-left: 10px;
+}
+
+main {
+  display: flex;
+  background-image: url(../img/bgrak1.jpg);
+  background-size: cover;
+  padding: 15px;
+  gap: 20px;
+}
+
+.container {
+  display: flex;
+  flex: 4.5;
+}
+
+aside {
+  flex: 1.5;
+  padding: 15px;
+  background-color: #242121;
+  border: 3px solid black;
+}
+
+.rak {
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 15px;
+  padding-right: 50px;
+}
+
+.rak1,
+.rak2 {
+  background-color: rgba(50, 50, 50, 1);
+  border: 3px solid #0d7377;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 20px;
+  transition: 0.3s;
+}
+
+.bradius {
+  border-radius: 15px;
+  width: 70%;
+}

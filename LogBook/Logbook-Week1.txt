@@ -1,0 +1,13 @@
+Onboarding National 16-02
+Technical Briefing 19-02
+2 kali konsultasi mingguan dengan mentor
+ILT SS 1
+ILT Tech
+
+Menyelesaikan 5 kelas:
+ - Pengenalan Logika Pemorgraman (Programming Logic 101)
+ - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+ - Belajar Dasar Git dengan Git Hub
+ - Belajar Dasar Pemrograman Web
+   * Assignment Web Portofolio
+ - Belajar Dasar Pemrograman Javascript

@@ -1,0 +1,22 @@
+Project Bookshelf Apps
+
+Kriteria:
+
+1. Add Buku
+2. Terdapat 2 rak buku:
+   - Belum selesai dibaca
+   - Selesai dibaca
+3. Memindahkan Buku antar Rak
+4. Fitur Delete
+5. Local Storage
+
+Tmbahan Fitur (Optional) :
+
+1. Fitur Pencarian
+2. Custom dialog saat menghapus buku
+3. Edit Buku
+
+Note : 
+   - fitur 2 dan 3 Pilih salah satu
+   - kode tanpa komentar yang tidak berguna ataupun kode yang tidak digunakan
+   - tanpa menggunakan starter project
