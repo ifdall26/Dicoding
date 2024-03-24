@@ -33,26 +33,29 @@ Week-2:
   * Minggu 3 Maret, menyelesaikan 8 materi pada bagian Struktur Data
 
 Week-3:
-  * Senin 4 Maret, Menyelesaikan hingga 33% kelas pada bagian Struktur Data.
-  * Selasa 5 Maret, Menyelesaikan hingga bagian Function.
+  * Senin 4 Maret, Menyelesaikan hingga 33% kelas pada bagian Struktur Data., dan hari ini terdapat sesi konsulasi mingguan dengan mentor pada siang harinya, namun saya tidak bisa mengikuti pada siang hari itu sehingga diadakan sesi penggenti pada malam harinya.
+  * Selasa 5 Maret, Menyelesaikan hingga bagian Function, dan mengikuti sesi ILT-FEBE mengenai Web Basic
   * Rabu 6 Maret, Menyelesaikan kelas hingga modul Penanganan Error.
   * Kamis 7 Maret, Menyelesaikan kelas hingga modul concurrency.
   * Jumat 8 Mater, Menyelesaikan kelas Belajar Dasar Pemrograman Javascript.
-  * Sabtu 9 Maret, 
-  * Minggu 10 Maret, 
+  * Sabtu 9 Maret, Mengulang ulang kembali materi yang telah dipelajari
+  * Minggu 10 Maret, Masih mengulang ulang materi dan Memulai kelas keenam, "Belajar Membuat Front-End Web Pemula" Menyelesaikan kelas bagian modul Browser Object Model dan Document Object Model
 
 Week-4:
-  * Senin 11 Maret, 
-  * Selasa 12 Maret, 
-  * Rabu 13 Maret, 
-  * Kamis 14 Maret, 
-  * Jumat 15 Maret, 
-  * Sabtu 16 Maret, 
-  * Minggu 17 Maret, 
+  * Senin 11 Maret, menyelesaikan modul Interaktif dengan Event
+  * Selasa 12 Maret, menyelesaikan modul bagian Penyimpanan Data dengan Web Storage, dan mulai mengerjakan Submission Tugas Akhir membuat website yang menerapkan teknik manipulasi DOM dan web Storage.
+  * Rabu 13 Maret, pengerjaan submission  , dan mengikuti sesi konsulasi mingguan 3 dengan mentor
+  * Kamis 14 Maret, pengerjaan submission, kemudian pada hari ini terdapa sesi ILT-SS tentang growth mindset dan personal development.
+  * Jumat 15 Maret, menyelesaikan submission
+  * Sabtu 16 Maret, mengulang ulang kembali materi yang telah dipelajari pada kelas Front-End Pemula.
+  * Minggu 17 Maret, masih mengulang materi
 
 Week-5:
-  * Senin 18 Maret, 
-  * Selasa 19 Maret,
+  * Senin 18 Maret, Memulai kelas ketujuh "Belajar Fundamental Front-End Web Development"
+  * Selasa 19 Maret,menyelesaikan 10% progress hingga modul HTML Form lanjutan bagian submodul validasi data.
+  * Rabu 20 Maret, 
+  * Kamis 21 Maret,
+  * Jumat 22 Maret,
   
   
 
